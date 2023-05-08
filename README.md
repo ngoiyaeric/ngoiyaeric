@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Consultant<br>- 📚 I'm currently learning JavaScript/CI/CD/ Cloud Technologies <br>- ⚡ In my free time I make Art</p>
+<p align="left">- 🔭 I’m working as a Software Consultant<br>- 📚 I'm currently learning JavaScript/CI/CD/ Cloud Technologies <br>- ⚡ In my free time I make Art</p>
 
 ###
 
