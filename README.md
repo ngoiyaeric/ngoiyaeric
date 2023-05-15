@@ -21,17 +21,11 @@
 
 ###
 
-<h1 align="center">Hi 👋</h1>
+
 
 ###
 
-<h3 align="left">About Me</h3>
 
-###
-
-<p align="left">- 🔭 I’m working as a Software Consultant<br>- 📚 I'm currently learning JavaScript/CI/CD/ Cloud Technologies <br>- ⚡ In my free time I make Art</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
