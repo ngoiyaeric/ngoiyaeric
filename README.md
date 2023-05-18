@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/Lcn0yF1RcLANG/giphy-downsized-large.gif"  />
-</div>
 
 ###
 
