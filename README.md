@@ -7,13 +7,7 @@
   </a>
   <a href="mailto:info.ericmail@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-  </a>
-  <a href="https://github.com/your-github-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=C&logo=C&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C logo" />
-  </a>
-  <a href="https://github.com/your-github-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Go&logo=Go&label=&color=00ADD8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Go logo" />
-  </a>
+ 
 </div>
 
 
