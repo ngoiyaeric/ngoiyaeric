@@ -1,8 +1,6 @@
 # Hello World
 
-I am at the beginning of Infinity.
-
-🔭 Fullstack Web (TypeScript) 🧑‍💻<br>+<br>Hybrid Mobile (React Native) 🧑‍💻<br>👉 Elysia + Bun, Next + React<br>👉 Git + Actions, K8s, Docker<br>💿 PostgreSQL + Drizzle<br>#FullstackWeb #JavaScript #TypeScript #Developer<br><br>👯 JavaScript/Typescript enthusiast with extensive knowledge on fullstack web app and hybrid mobile app development (BunJS, ElysiaJS, Drizzle ORM, PostgreSQL, Mongoose, MongoDB, ReactJS, NextJS, React Native).<br>Can also work with Strapi CMS and BaaS like Supabase and Firebase. Payment integration with Stripe and Paypal.<br>For accessing native features of the platform from JS/TS runtime I like to use Go along with suitable SDKs/APIs.<br><br>🤝 I render out services like product development, website and/or web application building, software consulting, planning out scalable backend architecture and deployment and server administration.<br>My services are much friendly and geared towards new technological enterpreneurs and founders starting out their businesses in both time bound and/or project based freelance contracts.<br><br>🌱 Currently taking some courses at UofT after my bachelors of science. I continuously strive to expand my knowledge base and explore new domains within technology. I am poised to contribute to high-impact projects, leveraging my technical acumen and domain-specific expertise.
+I am at the beginning of Infinity, building the worlds most useful company.
 
 ---
 
