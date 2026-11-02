@@ -1,4 +1,4 @@
-building super-intelligence, the worlds most important technology in human history.
+"for every action, there is an equal and opposite reaction"
 
 
 
